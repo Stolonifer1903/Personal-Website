@@ -57,13 +57,13 @@ const Contact = () => {
           <input
             type="text"
             className="name"
-            name="your_name"
+            name="from_name"
             placeholder="Your Name"
           />
           <input
             type="email"
             className="email"
-            name="your_email"
+            name="from_email"
             placeholder="Your Email"
           />
           <textarea

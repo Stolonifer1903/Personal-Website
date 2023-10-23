@@ -69,11 +69,16 @@
 }
 
 .submitBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: white;
   border: none;
   padding: 0.75rem 3.5rem;
   margin: 2rem;
   border-radius: 0.75rem;
+  width: 80px;
+  height: 40px;
 }
 
 .links {
@@ -87,3 +92,17 @@
   width: 3rem;
   margin: 0 0.75rem;
 }
+
+.link:hover {
+  filter: brightness(120%);
+}
+/* 
+.sentAnimation {
+  display: flex;
+}
+
+.sentAnimation {
+  object-fit: cover;
+  height: 2.3rem;
+  width: 2.3rem;
+} */
