@@ -2,7 +2,7 @@
   background: rgb(30, 30, 30);
   height: 5rem;
   width: 100vw;
-  max-width: 75rem;
+  /* max-width: 75rem; */
   margin: 0 auto;
   padding: 1rem 2rem;
   display: flex;
@@ -78,6 +78,7 @@
   color: white;
   padding: 0.5rem 3rem;
   margin: 0.25rem;
+  border-radius: 0.2rem;
   background: rgb(30, 30, 30);
 }
 

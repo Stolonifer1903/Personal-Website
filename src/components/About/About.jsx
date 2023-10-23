@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import { Link } from "react-scroll";
-import bg from "../../assets/IMG_1848_Original.png";
+import bg from "../../assets/portrait.png";
 import hireMe from "../../assets/hireme.png";
 
 const About = () => {

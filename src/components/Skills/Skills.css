@@ -33,6 +33,7 @@
 
 .skillBar {
   display: flex;
+  flex-direction: column;
   margin: 1rem;
   padding: 1.5rem 2rem;
   border-radius: 0.5rem;
@@ -43,6 +44,7 @@
   object-fit: cover;
   height: 3rem;
   width: 3rem;
+  min-width: 3rem;
   margin-right: 2rem;
 }
 
